@@ -26,12 +26,11 @@
 
 <img height="27" src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" alt="git" title="GIT">
 
-<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=zayedhamadi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=zayedhamadi&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zayedhamadi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br>![](https://github-readme-streak-stats.herokuapp.com/?user=zayedhamadi&theme=tokyonight&hide_border=false)<br/>
+<br>![](https://github-readme-stats.vercel.app/api/top-langs/?username=zayedhamadi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 <details>
