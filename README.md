@@ -33,22 +33,14 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zayedhamadi&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zayedhamadi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+
+<details>
+## 🏆 <summary>:zap: GitHub Trophies </summary> 
 ![](https://github-profile-trophy.vercel.app/?username=zayedhamadi&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
+</details>
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=zayedhamadi&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
 ---
-
-
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://git-stats-mu.vercel.app
-/api?username=Zayed hamadi&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
