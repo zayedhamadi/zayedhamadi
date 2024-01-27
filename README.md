@@ -6,9 +6,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,+Back+!&center=true&size=30">
   </p>
 
-<h1 align="center">Hi <img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" width="30px">, I'm Zayed Hamadi</h1>
+<h1 align="center">Hi there, <img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" width="30px">, I'm Zayed Hamadi </h1>
 
-   <h3 align="center"> 🌟 A passionate Web developer from Tunisia 🌟</h3>
+
+ <h3 align="center"> 🌟 ## I'm a Student , Developer and Tester!!🌟</h3>
+   
 
 ---
 [![](https://visitcount.itsvg.in/api?id=zayedhamadi&icon=7&color=6)](https://visitcount.itsvg.in)
