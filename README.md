@@ -35,15 +35,22 @@
 
 
 <details>
-## 🏆 GitHub Trophies  
-<summary>:zap: GitHub Stats</summary>
+
+<summary>:zap: GitHub Stats 🏆</summary>
 
 
 ![](https://github-profile-trophy.vercel.app/?username=zayedhamadi&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
 </details>
 
+
 ### 🔝 Top Contributed Repo
+
+<details>
+<summary> ### 🔝 Top Contributed Repo </summary>
+
 ![](https://github-contributor-stats.vercel.app/api?username=zayedhamadi&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
+
+</details>
 ---
