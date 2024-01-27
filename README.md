@@ -50,4 +50,15 @@
 
 
 </details>
+
+<br>
+
+<br>
+
+
+
+
+[![Spotify](https://novatorem-adding-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/317gh7n2tqwq6uipp2ghzwpok7pm)
+
+
 ---
