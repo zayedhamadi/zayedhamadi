@@ -7,8 +7,7 @@
  <h1 align="center">Hi there, I'm Zayed Hamadi  <img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" width="30px"> </h1>
 <br>
 
-  <h3 > 🌟 ## I'm a Student , Developer and Tester!!🌟</h3>
-   
+   ## 🌟  I'm a Student , Developer and Tester!!🌟
 
 ---
 
