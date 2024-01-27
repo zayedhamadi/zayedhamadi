@@ -1,7 +1,4 @@
 
-
-
-
 <p align="center" >
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,+Back+!&center=true&size=30">
   </p>
