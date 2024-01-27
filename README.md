@@ -56,7 +56,16 @@
 <br>
 
 ## spotify Playing
-[![Spotify](https://novatorem-spotify-9vwapos1m-zayed-hamadis-projects.vercel.app/api/spotify)](https://open.spotify.com/user/zayedh80)
+[![Spotify](https://novatorem-spotify-9vwapos1m-zayed-hamadis-projects.vercel.app/api/spotify)](https://open.spotify.com/user/317gh7n2tqwq6uipp2ghzwpok7pm)
 
+
+<br>
+
+## Listen with me in Spotify
+<div align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31xb7tg5wvfjlgz5wpoumvjknuhe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" title="Listen with me on Spotify">
+    <img src="https://novatorem-spotify-9vwapos1m-zayed-hamadis-projects.vercel.app/api/view?uid=31xb7tg5wvfjlgz5wpoumvjknuhe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Listen with me on Spotify" />
+  </a>
+</div>
 
 ---
