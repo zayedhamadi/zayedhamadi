@@ -55,17 +55,8 @@
 
 <br>
 
-
-##  Spotify playing
-
-[![Spotify](https://novatorem-adding-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/317gh7n2tqwq6uipp2ghzwpok7pm)
-
-
-<br>
-
 ## spotify Playing
-[<img src="https://novatorem-adding-spotify.vercel.app/api/spotify-playing" alt="A Few Leaps Of Faith Spotify Playing" width="350" />].
-(https://open.spotify.com/user/317gh7n2tqwq6uipp2ghzwpok7pm)
+[![Spotify](https://novatorem-spotify-9vwapos1m-zayed-hamadis-projects.vercel.app/api/spotify)](https://open.spotify.com/user/zayedh80)
 
 
 ---
