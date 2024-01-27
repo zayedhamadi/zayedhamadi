@@ -10,7 +10,7 @@
    
 
 ---
-[![](https://visitcount.itsvg.in/api?id=zayedhamadi&icon=7&color=6)](https://visitcount.itsvg.in)
+
 
 
 ##  <h3 align="left"> 🌐 Connect with me:</h3>
