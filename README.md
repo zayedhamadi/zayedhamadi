@@ -1,12 +1,12 @@
 
-## <p align="center" >
+ <p align="center" >
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,+Back+!&center=true&size=30">
   </p>
 
 ## <h1 align="center">Hi there, I'm Zayed Hamadi  <img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" width="30px"> </h1>
 
 
- ## <h3 align="center"> 🌟 ## I'm a Student , Developer and Tester!!🌟</h3>
+  <h3 align="center"> 🌟 ## I'm a Student , Developer and Tester!!🌟</h3>
    
 
 ---
