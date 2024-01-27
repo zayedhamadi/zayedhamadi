@@ -30,7 +30,7 @@
 <br>![](https://github-readme-streak-stats.herokuapp.com/?user=zayedhamadi&theme=tokyonight&hide_border=false)<br/>
 <br>![](https://github-readme-stats.vercel.app/api/top-langs/?username=zayedhamadi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
+ <br>
 <details>
  ## <summary>:zap: GitHub Stats 🏆:</summary> 
 
@@ -41,7 +41,7 @@
 </details>
 
 
-
+<br>
 
 <details>
 ## <summary> 🔝 Top Contributed Repo :</summary>
