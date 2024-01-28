@@ -30,8 +30,14 @@ Feel free to reach out and collaborate on interesting projects!
 
 
 ##  <h3 align="left"> 📊 GitHub Stats:</h3>
-![](https://github-readme-stats.vercel.app/api?username=zayedhamadi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-<br>![](https://github-readme-streak-stats.herokuapp.com/?user=zayedhamadi&theme=tokyonight&hide_border=false)<br/>
+
+<div style="display: flex; justify-content: space-between;">
+  <img align="left" alt="zayedhamadi's Github Stats" src="https://github-readme-stats-lemon-delta.vercel.app/api?username=zayedhamadi&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zayedhamadi&theme=tokyonight&hide_border=false" />
+</div>
+
+
+
 <br>![](https://github-readme-stats.vercel.app/api/top-langs/?username=zayedhamadi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
  <br>
@@ -72,5 +78,6 @@ Feel free to reach out and collaborate on interesting projects!
     <img src="https://novatorem-spotify-9vwapos1m-zayed-hamadis-projects.vercel.app/api/view?uid=31xb7tg5wvfjlgz5wpoumvjknuhe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Listen with me on Spotify" />
   </a>
 </div>
-
+I<!--     <img align="left" alt="zayedhamadi's Github Stats" src="https://github-readme-stats-lemon-delta.vercel.app/api?username=zayedhamadi&show_icons=true&hide_border=true" /> <br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=zayedhamadi&theme=tokyonight&hide_border=false)<br/> ->
 ---
