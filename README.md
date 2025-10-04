@@ -12,7 +12,7 @@
 ---<p align="left"> <img src="https://komarev.com/ghpvc/?username=zayedhamadi&label=Profile%20views&color=0e75b6&style=flat" alt="zayedhamadi" /> </p>---
 
 ### 📫 How to reach me:
-📧 [zayedh80@gmail.com](mailto:zayedhamadi2025@gmail.com)
+📧 [zayedhamadi2025@gmail.com](mailto:zayedhamadi2025@gmail.com)
 
 Feel free to reach out and collaborate on interesting projects!
 
